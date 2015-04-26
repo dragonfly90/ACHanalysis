@@ -1,0 +1,9 @@
+This version includes one big improvement and a handful of other tweaks.
+
+-First and foremost, this version is designed for complete compatibility in either root directories or subdirectories, with the same installation instructions for both. 
+
+-The code still contained several custom code from an earlier version designed for a government platform. That code has been stripped out. You probably won't notice a difference on the front end.
+
+-A few icons were missing. Most of these were discovered by the dev community. (Thanks!)
+
+-A typo in the stylesheet was keeping the Very Inconsistent cells from displaying the correct background color.
