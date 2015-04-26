@@ -37,11 +37,11 @@ $SQL_CACHE = array();
 $SQL_DUPES = 0;
 $SQL_SELECTS = 0;
 
-$dbhost = '';
-$dbusername = '';
-$dbuserpassword = '';
-$default_dbname = '';
-$MYSQL_ERRNO = '';
+$dbhost = 'localhost';
+$dbusername = 'root';
+$dbuserpassword = '123456';
+$default_dbname = 'ach';
+$MYSQL_ERRNO = 'mysql error';
 
 function db_connect() {
 	global $dbhost, $dbusername, $dbuserpassword, $default_dbname;
