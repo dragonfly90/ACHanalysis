@@ -22,9 +22,9 @@
 //////////////////////////////////////////////////////////////////////////////// */
 ?>
 
-<base href="">
-<?php $base_URL="";
-$email_domain="";
+<base href="http://localhost/ACH-1.0.3-alpha/">
+<?php $base_URL="http://localhost/ACH-1.0.3-alpha/";
+$email_domain="localhost/ACH-1.0.3-alpha";
 $versionNumber="1.0.3alpha"?>
 <link rel="stylesheet" type="text/css" href="css/style.css" />
 <link rel="stylesheet" type="text/css" href="css/sortabletable.css" />
