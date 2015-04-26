@@ -1,6 +1,6 @@
 Options +Indexes -MultiViews
 RewriteEngine  on
-RewriteBase    /
+RewriteBase    /ACH-1.0.3-alpha
 
 
 
